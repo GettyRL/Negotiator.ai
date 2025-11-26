@@ -1,0 +1,8 @@
+{
+  "name": "Negotiator.ai",
+  "description": "The AI 'Bad Cop' for procurement. Autonomously negotiates contracts, finds hidden risks, and suggests alternatives using advanced Gemini models.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
